@@ -1,3 +1,4 @@
+package basics;
 import java.util.Scanner;
 public class checkEvenOrNot {
     public static boolean isEven(int n){

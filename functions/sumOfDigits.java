@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class sumOfDigits {
     public static int digitsSum(int n){

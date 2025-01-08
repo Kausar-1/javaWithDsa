@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 public class maxOfThreeNumber {
     public static void main(String args[]){

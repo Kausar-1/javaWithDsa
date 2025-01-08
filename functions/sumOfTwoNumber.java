@@ -1,3 +1,4 @@
+package functions;
 import java.util.Scanner;
 class sumOfTwoNumber{
     public static void main(String args[]){
